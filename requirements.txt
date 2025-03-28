@@ -1,0 +1,2 @@
+nuclio-jupyter
+nuclio_sdk
